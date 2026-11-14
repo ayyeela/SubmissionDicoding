@@ -60,4 +60,4 @@ Dashboard akan terbuka otomatis di `http://localhost:8501`.
 
 ## Dashboard Online
 
-Dashboard dapat dilihat di: **ISI_ALAMAT_DASHBOARD_ANDA**
+Dashboard dapat dilihat di: **(https://ayla-ecommerce-dashboard.streamlit.app/)**
